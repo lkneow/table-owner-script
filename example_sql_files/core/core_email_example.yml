@@ -1,0 +1,7 @@
+version: 2
+models:
+  - name: core_customers
+    description: example core customers
+    meta:
+      owner:
+        user_email: personB@companyemail.com

@@ -1,0 +1,8 @@
+version: 2
+models:
+  - name: stg_payments
+    description: example stg payments
+    meta:
+      owner:
+        slack_group: teamA-on-slack
+        user_email: personA@companyemail.com

@@ -1,0 +1,8 @@
+version: 2
+models:
+  - name: mart_customer_order
+    description: example mart_customer_order
+    meta:
+      owner:
+        slack_group: teamC-on-slack
+        user_email: personC@companyemail.com

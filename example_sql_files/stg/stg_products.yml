@@ -1,0 +1,8 @@
+version: 2
+models:
+  - name: stg_products
+    description: example stg products
+    meta:
+      owner:
+        slack_group: teamA-on-slack
+        user_email: personA@companyemail.com

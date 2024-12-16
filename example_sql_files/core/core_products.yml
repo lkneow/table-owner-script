@@ -1,0 +1,8 @@
+version: 2
+models:
+  - name: core_products
+    description: example core products
+    meta:
+      owner:
+        slack_group: teamB-on-slack
+        user_email: personB@companyemail.com

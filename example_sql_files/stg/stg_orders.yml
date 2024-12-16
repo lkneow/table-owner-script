@@ -1,0 +1,8 @@
+version: 2
+models:
+  - name: stg_orders
+    description: example stg orders
+    meta:
+      owner:
+        slack_group: teamA-on-slack
+        user_email: personA@companyemail.com
